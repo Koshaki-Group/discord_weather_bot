@@ -1,3 +1,14 @@
+🌦️ Discord Weather Bot
+
+A simple Discord bot written in Python that shows the current weather 🌍 using the OpenWeatherMap API.
+Just type !weather <city> and get temperature 🌡, conditions ⛅, and emojis 🌧❄️🔥 depending on the forecast.
+
+✨ Features
+    •    🌍 Get real-time weather for any city
+    •    🌡 Temperature in Celsius
+    •    ⛅ Weather description with emojis
+    •    🔧 Easy to set up and run
+    
 # Discord Weather Bot Setup Instructions
 
 1. **Install dependencies:**
@@ -29,3 +40,4 @@
 **Note:**
 - The first time you run the bot, it may take a few minutes for the slash command to appear in your server.
 - For faster command registration, set your server's guild ID in `bot.py` (see the `guild_id` variable).
+
